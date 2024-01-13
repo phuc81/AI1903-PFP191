@@ -1,0 +1,6 @@
+decimal_number = 8
+octal_number = oct(decimal_number)
+print(f"The octal representation of {decimal_number} is {octal_number}")
+
+number = 458.541315
+print("{:.2f}".format(number))
